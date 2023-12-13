@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    margin: 40px;
+    gap: 30px;
+}
+section{
+    flex: 1;
+}
+.lista_dojos{
+    border: 1px solid black;
+    padding-left: 20px;
+}
+.agrega{
+    margin-top: 20px;
+}
